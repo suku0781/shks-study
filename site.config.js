@@ -2,7 +2,7 @@ const CONFIG = {
   // profile setting (required)
   profile: {
     name: "Kim Su Hyeok",
-    image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
+    image: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxMSwibm9zZSI6NCwibW91dGgiOjgsImV5ZXMiOjYsImV5ZWJyb3dzIjo3LCJnbGFzc2VzIjoyLCJoYWlyIjozNCwiYWNjZXNzb3JpZXMiOjEzLCJkZXRhaWxzIjowLCJiZWFyZCI6MCwiZmxpcCI6MCwiY29sb3IiOiJyZ2JhKDI1NSwgMCwgMCwgMCkiLCJzaGFwZSI6Im5vbmUifQ==", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Baclend Developer",
     bio: "I wanna be back-end developer.",
     email: "suku0781@gmail.com",
@@ -20,7 +20,7 @@ const CONFIG = {
   blog: {
     title: "shks-log",
     description: "welcome to shk's-study-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
